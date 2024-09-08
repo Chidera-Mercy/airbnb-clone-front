@@ -1,7 +1,7 @@
-import { Category, CategoryName } from '../../../layout/navbar/category/category.model';
+import { Category, CategoryName } from '../../../../layout/navbar/category/category.model';
 import {Component, EventEmitter, inject, input, OnInit, Output} from '@angular/core';
 import {FaIconComponent} from "@fortawesome/angular-fontawesome";
-import { CategoryService } from '../../../layout/navbar/category/category.service';
+import { CategoryService } from '../../../../layout/navbar/category/category.service';
 
 
 

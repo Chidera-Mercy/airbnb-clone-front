@@ -1,5 +1,5 @@
 import { Location } from '@angular/common';
-import {HttpClient, HttpParams, HttpStatusCode} from "@angular/common/http";
+import { HttpClient, HttpParams, HttpStatusCode } from "@angular/common/http";
 import { computed, inject, Injectable, signal, WritableSignal } from '@angular/core';
 import { User } from '../model/user.model';
 import { State } from '../model/state.model';

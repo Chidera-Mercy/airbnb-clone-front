@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Message } from 'primeng/api';
-import { BehaviorSubject } from 'rxjs';
+import {BehaviorSubject, Observable} from "rxjs";
+import {Message} from "primeng/api";
 
 @Injectable({
   providedIn: 'root'

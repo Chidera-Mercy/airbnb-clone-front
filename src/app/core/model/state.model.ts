@@ -1,4 +1,4 @@
-import {HttpErrorResponse} from '@angular/common/http'; // Import HttpErrorResponse
+import { HttpErrorResponse } from '@angular/common/http'; // Import HttpErrorResponse
 
 export type StatusNotification = 'OK' | 'ERROR' | 'INIT';
 
